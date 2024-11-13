@@ -9,6 +9,6 @@
 
     </head>
     <body class="font-sans antialiased dark:bg-black dark:text-white/50">
-        <h1>Hola Mundo</h1>
+        <h1>Hola Juanqui, aquí esta tu factura</h1>
     </body>
 </html>
